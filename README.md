@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EricH3344
 - 👀 I’m interested in programming and game design. 
-- 🌱 I’m currently learning HTML, CSS, and JavaScript
+- 🌱 I’m currently learning Java
 - 📫 How to reach me eric.hagen3344@gmail.com
 
 <!---
